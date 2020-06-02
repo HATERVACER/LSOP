@@ -1,2 +1,2 @@
 # Local Server On Python
-just replace index.html and it will work!
+just replace **index.html** and it will work!
